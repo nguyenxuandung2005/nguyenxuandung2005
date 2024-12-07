@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Nguyễn Xuân Dũng! 👋
 
-<!--
-**nguyenxuandung2005/nguyenxuandung2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate software engineer with a focus on [Your primary interest]. I enjoy building innovative solutions and learning new technologies.
 
-Here are some ideas to get you started:
+**Skills:**
+* **Programming Languages:** Python, JavaScript, C++
+* **Frameworks/Libraries:** VS, PyTorch, TensorFlow
+* **Tools:** Git, Docker, AWS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Interests:**
+* Machine Learning
+* Data Science
+* Web Development
+* Open Source
+
+**Projects:**
+
+* **[Project 1 Name]:** 
+  * SpO2, HeartRate, Temp monitor with Blynk 
+* **[Project 2 Name]:**
+  * Rehabgame ... on working
+
+**Let's connect!** 
+* **LinkedIn:** https://www.linkedin.com/in/x-dung-nguyen-a446a631a/
+
+Feel free to reach out if you have any questions or want to collaborate on a project!
